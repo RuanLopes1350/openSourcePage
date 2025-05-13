@@ -34,7 +34,7 @@ main {
     border: 1px solid rgba(95, 99, 105, 1);
 }
 
-.card-botao {
+.card-botao a {
     width: 131px;
     height: 35px;
     border: 1px solid rgba(206, 206, 206, 1);
@@ -46,7 +46,7 @@ main {
     align-items: center;
 }
 
-.card-botao:hover {
+.card-botao:hover a {
     background: rgba(28, 115, 232, 1);
     border: 1px solid rgba(28, 115, 232, 1);
     color:rgba(255, 255, 255, 1);
